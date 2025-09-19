@@ -1,7 +1,8 @@
-Todo Application - SDET Assignment
-This is a full-stack Todo application built with a Next.js frontend and a FastAPI backend. It provides a simple and intuitive interface for managing your daily tasks with AI-powered summaries.
+## Todo Application - SDET Assignment
+# This is a full-stack Todo application built with a Next.js frontend and a FastAPI backend.
+It provides a simple and intuitive interface for managing your daily tasks with AI-powered summaries.
 
-Features
+# Features
 Create, Read, Update, Delete (CRUD) operations for todos
 
 AI-Powered Daily Summary: Get a quick overview of tasks that are due today, upcoming, or overdue
